@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-11-13 00:14:30",
+  "python": "3.13.14",
+  "data_dir": "C:\\Users\\xi1li\\Desktop\\quant\\localdata",
+  "datasets": {
+    "daily": {
+      "name": "前复权日线",
+      "files": 54,
+      "rows": 7157516,
+      "digest": "ac468fcf4efe5151",
+      "sample_range": [
+        "2020-09-01",
+        "2026-11-12"
+      ]
+    },
+    "daily_raw": {
+      "name": "不复权日线",
+      "files": 54,
+      "rows": 7133500,
+      "digest": "ec32b3d4fedb4d6d",
+      "sample_range": [
+        "2020-09-01",
+        "2026-11-12"
+      ]
+    },
+    "fin": {
+      "name": "财务",
+      "files": 53,
+      "rows": 138309,
+      "digest": "ebe893ba133b5728"
+    },
+    "div": {
+      "name": "分红",
+      "files": 18,
+      "rows": 26521,
+      "digest": "a7bd3c9027d82777"
+    }
+  },
+  "digest": "e68952a575b0fac9"
+}
